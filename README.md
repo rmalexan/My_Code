@@ -1,4 +1,4 @@
-My_Portfolio
+My Portfolio
 =======
 
 Jupyter Notebooks from a few projects I've worked on in my spare time. Descriptions below:
